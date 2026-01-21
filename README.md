@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1IbvpU-5z41wKG6LeTNdrI-Tvgq8wefPy/view?usp=sharing)
+![](https://github.com/olidarielle/Laboratories/blob/main/PROFILE%20BANNER%20(1).png)
 # 💫 About Me:
 I'm currently a college student<br>I'm currently learning IT skills<br>
 
