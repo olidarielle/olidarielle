@@ -1,3 +1,4 @@
+![](https://drive.google.com/file/d/1IbvpU-5z41wKG6LeTNdrI-Tvgq8wefPy/view?usp=sharing)
 # 💫 About Me:
 I'm currently a college student<br>I'm currently learning IT skills<br>
 
