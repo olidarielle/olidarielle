@@ -14,7 +14,7 @@ Motto: Taking in every simple moment and noticing the beauty surrounding you.<br
 ---
 [![](https://visitcount.itsvg.in/api?id=olidarielle&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 <!--
 **olidarielle/olidarielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
