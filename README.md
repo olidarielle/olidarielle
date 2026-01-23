@@ -1,6 +1,6 @@
 ![](https://github.com/olidarielle/Laboratories/blob/main/PROFILE%20BANNER%20(1).png)
 # 💫 About Me:
-I'm currently a college student<br>I'm currently learning IT skills<br>
+I'm currently a college student<br>I'm currently learning IT skills<br>Taking in every simple moment and noticing the beauty surrounding you.<br>
 
 
 # 💻 Tech Stack:
