@@ -1,7 +1,7 @@
 ![](https://github.com/olidarielle/Laboratories/blob/main/PROFILE%20BANNER%20(1).png)
 # 💫 About Me:
-I'm currently a college student<br>I'm currently learning IT skills<br>
-Taking in every simple moment and noticing the beauty surrounding you.<br>
+The name is Darielle Oli, a 20 years of age, currently resided at Davao City, Davao del Sur, a place that keeps me grounded and motivated. I enjoy staying active through sports and am currently interested in exploring calisthenics as a new way to challenge my strength and discipline.<br>
+Motto: Taking in every simple moment and noticing the beauty surrounding you.<br>
 
 
 # 💻 Tech Stack:
